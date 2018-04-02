@@ -1,6 +1,6 @@
 # Purpose of Repository
 
-This repository demonstrates how to use react-testing-library which is an excellent library made by Kent C. Dodds.
+This repository demonstrates how to use [react-testing-library](https://github.com/kentcdodds/react-testing-library).
 
 # Installation
  - npm install
